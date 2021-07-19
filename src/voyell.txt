@@ -1,0 +1,3 @@
+Use parallel operations on collections
+use actors for concurrency and distribution
+futures for asynchronous programming collections
